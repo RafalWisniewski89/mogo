@@ -1,0 +1,10 @@
+$color: pink;
+p {
+	font-size: 100px;
+	color: $color;
+	background: green;
+
+	span {
+		color: orange;
+	}
+}
